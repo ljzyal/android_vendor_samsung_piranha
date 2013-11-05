@@ -18,15 +18,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/etc/powervr.ini:system/etc/powervr.ini \
     $(LOCAL_PATH)/proprietary/system/vendor/bin/pvrsrvctl_SGX544_112:system/vendor/bin/pvrsrvctl_SGX544_112 \
     $(LOCAL_PATH)/proprietary/system/vendor/bin/pvrsrvinit:system/vendor/bin/pvrsrvinit \
-    $(LOCAL_PATH)/proprietary/system/vendor/bin/testwrap:system/vendor/bin/testwrap \
     $(LOCAL_PATH)/proprietary/system/vendor/bin/texture_benchmark:system/vendor/bin/texture_benchmark \
-    $(LOCAL_PATH)/proprietary/system/vendor/bin/framebuffer_test:system/vendor/bin/framebuffer_test \
-    $(LOCAL_PATH)/proprietary/system/vendor/bin/hal_client_test:system/vendor/bin/hal_client_test \
-    $(LOCAL_PATH)/proprietary/system/vendor/bin/hal_server_test:system/vendor/bin/hal_server_test \
-    $(LOCAL_PATH)/proprietary/system/vendor/bin/services_test_SGX544_112:system/vendor/bin/services_test_SGX544_112 \
-    $(LOCAL_PATH)/proprietary/system/vendor/bin/sgx_flip_test_SGX544_112:system/vendor/bin/sgx_flip_test_SGX544_112 \
-    $(LOCAL_PATH)/proprietary/system/vendor/bin/sgx_init_test_SGX544_112:system/vendor/bin/sgx_init_test_SGX544_112 \
-    $(LOCAL_PATH)/proprietary/system/vendor/bin/sgx_render_flip_test_SGX544_112:system/vendor/bin/sgx_render_flip_test_SGX544_112 \
     $(LOCAL_PATH)/proprietary/system/vendor/lib/egl/libEGL_POWERVR_SGX544_112.so:system/vendor/lib/egl/libEGL_POWERVR_SGX544_112.so \
     $(LOCAL_PATH)/proprietary/system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_112.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_112.so \
     $(LOCAL_PATH)/proprietary/system/vendor/lib/egl/libGLESv2_POWERVR_SGX544_112.so:system/vendor/lib/egl/libGLESv2_POWERVR_SGX544_112.so \
